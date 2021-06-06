@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PasOnline/static/css/main.8f962491.chunk.css",
-    "main.js": "/PasOnline/static/js/main.4bccba8c.chunk.js",
-    "main.js.map": "/PasOnline/static/js/main.4bccba8c.chunk.js.map",
-    "runtime-main.js": "/PasOnline/static/js/runtime-main.b96365df.js",
-    "runtime-main.js.map": "/PasOnline/static/js/runtime-main.b96365df.js.map",
-    "static/js/2.47a8aa61.chunk.js": "/PasOnline/static/js/2.47a8aa61.chunk.js",
-    "static/js/2.47a8aa61.chunk.js.map": "/PasOnline/static/js/2.47a8aa61.chunk.js.map",
-    "index.html": "/PasOnline/index.html",
-    "static/css/main.8f962491.chunk.css.map": "/PasOnline/static/css/main.8f962491.chunk.css.map",
-    "static/js/2.47a8aa61.chunk.js.LICENSE.txt": "/PasOnline/static/js/2.47a8aa61.chunk.js.LICENSE.txt"
+    "main.css": "/docs/static/css/main.8f962491.chunk.css",
+    "main.js": "/docs/static/js/main.4bccba8c.chunk.js",
+    "main.js.map": "/docs/static/js/main.4bccba8c.chunk.js.map",
+    "runtime-main.js": "/docs/static/js/runtime-main.b96365df.js",
+    "runtime-main.js.map": "/docs/static/js/runtime-main.b96365df.js.map",
+    "static/js/2.47a8aa61.chunk.js": "/docs/static/js/2.47a8aa61.chunk.js",
+    "static/js/2.47a8aa61.chunk.js.map": "/docs/static/js/2.47a8aa61.chunk.js.map",
+    "index.html": "/docs/index.html",
+    "static/css/main.8f962491.chunk.css.map": "/docs/static/css/main.8f962491.chunk.css.map",
+    "static/js/2.47a8aa61.chunk.js.LICENSE.txt": "/docs/static/js/2.47a8aa61.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b96365df.js",
