@@ -1,6 +1,6 @@
 {
-  "homepage": "https://pasonline.github.io/react-gifexpertapp",
-  "name": "gif-expert-app",
+  "homepage": ".",
+  "name": "react-gifexpertap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
